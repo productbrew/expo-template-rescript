@@ -3,6 +3,9 @@
   "main": "node_modules/expo/AppEntry.js",
   "version": "0.0.5",
   "license": "MIT",
+  "keywords": [
+    "expo", "reasonml", "rescript", "react", "react-native"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
