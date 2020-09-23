@@ -4593,9 +4593,9 @@ readable-stream@^2.0.1, readable-stream@^2.2.2, readable-stream@~2.3.6:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-"reason-expo@https://gitpkg.now.sh/mlventures/reason-expo/packages/reason-expo?9f0f0ce":
+"reason-expo@https://gitpkg.now.sh/mlventures/reason-expo/packages/reason-expo?b4833d3":
   version "38.0.0"
-  resolved "https://gitpkg.now.sh/mlventures/reason-expo/packages/reason-expo?9f0f0ce#f39444158d55c87c58f1e0d5b6e2f0deb80fc07e"
+  resolved "https://gitpkg.now.sh/mlventures/reason-expo/packages/reason-expo?b4833d3#adaf589db06d9029bc31b1cd280732514a299290"
 
 reason-react-native@^0.62.3:
   version "0.62.3"
